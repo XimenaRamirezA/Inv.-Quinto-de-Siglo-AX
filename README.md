@@ -10,18 +10,17 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/3.png)
+![Primera parte de la página web](imagenes/encabezado_invitacion.png)
 
-Experiencia:
+Mensaje:
 
-![Experiencia](imagenes/4.png)
+![Mensaje](imagenes/main_invitacion.png)
 
-Proyectos:
-![Proyectos](imagenes/5.png)
 
-Contacto:
 
-![Contacto](imagenes/6.png)
+Contacto de confirmación:
+
+![Contacto](imagenes/contacto_invitacion.png)
 
 ## Tecnologías
 
@@ -39,7 +38,7 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 El texto de la página web está escrito en españpl, las clases y atributos personalizados están en español. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
 Link del demo:
-https://quinto-de-siglo-ax.netlify.app/
+https://ximenaramireza.github.io/Inv.-Quinto-de-Siglo-AX/
 
 
 
